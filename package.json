@@ -1,6 +1,6 @@
 {
-  "name": "elastic-apm-node",
-  "version": "3.7.0",
+  "name": "eb-elastic-apm-node",
+  "version": "1.0.1",
   "description": "The official Elastic APM agent for Node.js",
   "main": "index.js",
   "types": "index.d.ts",
